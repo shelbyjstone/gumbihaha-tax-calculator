@@ -1,3 +1,4 @@
-export default function calculate(firstValue: number, secondValue: number): number {
-  return firstValue + secondValue;
+export default function calculate(salary: number): number {
+  const tax = 0;
+  return tax;
 }
